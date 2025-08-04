@@ -1,0 +1,6 @@
+# Ignore large data files
+data/
+germany_energy_and_weather_hourly.csv
+
+# Ignore Python cache files
+__pycache__/
